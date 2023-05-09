@@ -22,10 +22,10 @@ You'll have a much better time seeing the results in the browser.
 
 Run `npm install` to install our dependencies.
 
-Then, run `npm run server` to start up `json-server` on `http://localhost:3001`.
+Then, run `npm run server` to start up `json-server` on `http://localhost:3000`.
 
-In another tab, run `npm start` to start up our React app at
-`http://localhost:3000`.
+In another tab, run `npm run start` to start up our React app at
+`http://localhost:5173`.
 
 ## Deliverables
 
